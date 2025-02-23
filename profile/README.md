@@ -21,13 +21,15 @@
 - **Flexible Delivery** 🌍: Dedicated remote teams or embedded on-site engineers  
 
 ## 🛠 Core Expertise
-| **Frontend**             | **Backend**              | **Cloud & DevOps**      |
+| **Frontend**             | **Backend**              | **Mobile**              |
 |--------------------------|--------------------------|-------------------------|
-| React • Next.js • Vue     | Node.js • Python • .NET  | AWS • Azure • GCP       |
-| TypeScript • Tailwind CSS | GraphQL • REST APIs      | Docker • Kubernetes     |
-| **Mobile**               | **Data & AI**            | **Quality Assurance**   |
-| Flutter • SwiftUI         | TensorFlow • PyTorch     | Cypress • Playwright    |
-| Kotlin • Jetpack Compose  | BigQuery • Snowflake     | Load Testing • Selenium |
+| React • Next.js • Vue    | Node.js • Python • .NET  | Flutter • SwiftUI       |
+| TypeScript • Tailwind CSS| GraphQL • REST APIs      | Kotlin • Jetpack Compose|
+
+| **Cloud & DevOps**       | **Data & AI**            | **Quality Assurance**   |
+|--------------------------|--------------------------|-------------------------|
+| AWS • Azure • GCP        | TensorFlow • PyTorch     | Cypress • Playwright    |
+| Docker • Kubernetes      | BigQuery • Snowflake     | Load Testing • Selenium |
 
 ## 🌟 Why Partner With Us?
 <div align="center">
@@ -43,7 +45,7 @@
 | Project               | Status       | Description                          | Tech Stack          |
 |-----------------------|--------------|--------------------------------------|---------------------|
 | **FlowForge**         | `Alpha`      | Low-code workflow automation engine  | React • Node.js     |
-| **CodeSentinel**      | `Planning`   | AI-powered code review assistant     | Python • GPT-4     |
+| **CodeSentinel**      | `Planning`   | AI-powered code review assistant     | Python • GPT-4      |
 
 ## 🤝 Let’s Build Together
 **Explore our engagement models:**  
