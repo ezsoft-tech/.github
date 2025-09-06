@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Web Development](https://img.shields.io/badge/Web-React%20|%20Next.js%20|%20Vue-3C3C3C?logo=react)](https://ezsoft.ca/services)
+  [![Web Development](https://img.shields.io/badge/Web-React%20|%20Vue|%20Angular%20-3C3C3C?logo=react)](https://ezsoft.ca/services)
   [![Mobile Apps](https://img.shields.io/badge/Mobile-Flutter%20|%20SwiftUI%20|%20Kotlin-61DAFB?logo=flutter)](https://ezsoft.ca/services)
   [![Trusted By](https://img.shields.io/badge/Trusted_by-50%2B_Enterprise_Clients-00C7B7?logo=github)](https://ezsoft.ca/case-studies)
   [![Certified](https://img.shields.io/badge/Security-ISO_27001_Certified-4CAF50?logo=opensourceinitiative)](https://ezsoft.ca/security)
