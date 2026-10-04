@@ -2,8 +2,6 @@
   <img src="./ezsoft-banner.svg" width="400" alt="ezSoft Technologies Logo">
 </p>
 
-<h1 align="center">🚀 Turning Vision into Code</h1>
-
 <div align="center">
   
   [![Web Development](https://img.shields.io/badge/Web-React%20|%20Vue|%20Angular%20-3C3C3C?logo=react)](https://ezsoft.ca/services)
