@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo-ezsoft-full.png" width="300" alt="ezSoft Technologies Logo">
+  <img src="./ezsoft-banner.svg" width="300" alt="ezSoft Technologies Logo">
 </p>
 
 <h1 align="center">🚀 Turning Vision into Code</h1>
