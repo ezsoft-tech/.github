@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./ezsoft-banner.svg" width="400" alt="ezSoft Technologies Logo">
+  <img src="https://assets.ezsoft.ca/logos/ezsoft-banner.svg" width="400" alt="ezSoft Technologies Logo">
 </p>
 
 <div align="center">
